@@ -69,7 +69,7 @@ for (int i = 0; i < BUCKET; i++) {
 int main()
 {
 // array that contains keys to be mapped
-pair<int,string> a[] = {make_pair(14,"sliwa"),
+pair<int,string> a[] = {make_pair(14,"salwa"),
 						make_pair(10,"khalil"),
 						make_pair(9,"yahya"),
 						make_pair(5,"aya"),
